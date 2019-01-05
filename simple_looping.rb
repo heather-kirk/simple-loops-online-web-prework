@@ -22,7 +22,7 @@ end
 def while_iterator(number_of_times)
   while_iterator = 7
   while while_iterator < 7 
-  puts = "Welcome to Flatiron School's Web Development Course!"
+  "Welcome to Flatiron School's Web Development Course!"
   while_iterator += 1 
 end
 end
@@ -30,7 +30,7 @@ end
 def until_iterator(number_of_times)
   until_iterator = 7
   until until_iterator == 7
-  puts  "Welcome to Flatiron School's Web Development Course!"
+  "Welcome to Flatiron School's Web Development Course!"
   until_iterator +=1 
 end
 end
@@ -38,7 +38,7 @@ end
 def for_iterator(number_of_times)
  for_iterator = 1..7
   for for_iterator in number_of_times
-  puts   = "Welcome to Flatiron School's Web Development Course!"
+  "Welcome to Flatiron School's Web Development Course!"
 end
 end
 
