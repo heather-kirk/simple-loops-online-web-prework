@@ -10,7 +10,7 @@ def loop_iterator(number_of_times)
     break 
   end
 end 
-
+end
 
 def times_iterator(number_of_times)
 7.times do 
