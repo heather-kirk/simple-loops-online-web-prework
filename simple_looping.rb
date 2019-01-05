@@ -13,7 +13,7 @@ end
 end
 
 def times_iterator(number_of_times)
-7.number_of_times do 
+7.times do 
   puts = "Welcome to Flatiron School's Web Development Course!"
    "Welcome to Flatiron School's Web Development Course!"
 end
